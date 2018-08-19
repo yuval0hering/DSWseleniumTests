@@ -25,7 +25,6 @@ Mark likes to tip 20% of the bill when the bill is less than $100, 10% when the 
 
 GOOD LUCK 😀
 */
-var tryGit;
 var markBills = {
     billsArr: [77, 375, 110, 45],
     tipCalc: function () {
